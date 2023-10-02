@@ -1,1 +1,2 @@
 adding 2nd line to file1.txt before 3rd commit
+adding 3rd line befor 4th commit
