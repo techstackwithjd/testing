@@ -1,0 +1,1 @@
+this is first line writing to file1.txt before 2nd commit
